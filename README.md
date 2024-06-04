@@ -1,11 +1,11 @@
 #Python 
-This repository contains Python scripts/projects written by myself.
+This repository contains Python scripts written by myself.
 
 #Overview 
-Welcome to the Python repository! Here you will find a collection of scripts and projects that I have developed using Python. These scripts cover various tasks and automation solutions aimed at improving efficiency and productivity.
+Welcome to the Python repository! Here you will find a collection of scripts that I have developed using Python. These scripts cover various tasks and automation solutions aimed at improving efficiency and productivity.
 
 #Contents Scripts: 
-Individual Python scripts for specific tasks. Projects: More comprehensive projects that include multiple scripts and possibly other resources. Modules: Reusable Python modules that can be imported and used in other scripts.
+Individual Python scripts for specific tasks.
 
 #Language 
 Please note that some files in this repository are written in English and others in German. This variation reflects my bilingual development process. Each script and project includes comments and documentation in the respective language to ensure clarity and usability.
